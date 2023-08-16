@@ -1,6 +1,6 @@
 # RecruitmentTasks
 For both tasks LightBdd framework was used.
-1. Task “API Testing exercise:
+## Task: API Testing exercise:
 In the solution there are two Scenarios: one with multiple small methods and 
 the other one more general with bigger methods (however, they contain 
 same assertions). I couldn’t decide on the approach. The scenario with more 
@@ -15,7 +15,8 @@ or for more details
 `dotnet test --logger:”console;verbosity=detailed”`
 a. For HTML test raport go to ApiTester\bin\Debug\net7.0\Reports and open 
 FeturesReport.html file
-2. Task UI Automation Testing Exercise:
+---
+## Task: UI Automation Testing Exercise:
 The solution for the task is in folder “OrderingTests”. To run tests open the 
 terminal, go to the folder \Ordering tests, and run the command:
 `dotnet test` 
