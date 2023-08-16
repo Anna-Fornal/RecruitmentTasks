@@ -1,7 +1,7 @@
 # RecruitmentTasks
 For both tasks LightBdd framework was used.
-
-## Task: API Testing exercise:
+---
+Task: API Testing exercise:
 In the solution there are two Scenarios: one with multiple small methods and 
 the other one more general with bigger methods (however, they contain 
 same assertions). I couldn’t decide on the approach. The scenario with more 
