@@ -9,16 +9,14 @@ details is harder to manage but whenever tests fail, it’s easier to know
 straight away which tests failed from the Reports. The second, more generic 
 approach is better when there are multiple tests run at the same time, so the 
 test reports are not so cluttered with multiple results.
-The task solution is in folder „ApiTester”. To run tests open the terminal 
+The task solution is in folder *ApiTester*. To run tests open the terminal 
 (console), go to the folder \ApiTester, and run the command: 
 `dotnet test`
 or for more details
 `dotnet test --logger:”console;verbosity=detailed”`
-a. For HTML test raport go to ApiTester\bin\Debug\net7.0\Reports and open 
-FeturesReport.html file
 ---
 ## Task: UI Automation Testing Exercise:
-The solution for the task is in folder “OrderingTests”. To run tests open the 
+The solution for the task is in folder *OrderingTests*. To run tests open the 
 terminal, go to the folder \Ordering tests, and run the command:
 `dotnet test` 
 or for more details
